@@ -24,8 +24,9 @@ In particular, we would like to find answers to questions like:
    python3?
 
 It would be nice if one of the outcomes of the retreat was a study guide to
-help instructors and helpers make the change evenn if they don't make it to 
-the retreat. With this in mind, we hope to develop a short set of notes, 
+help instructors and helpers make the change even if they don't make it to 
+the retreat. With this in mind, we hope to [develop a short set of notes](
+https://github.com/andreww/python3_friends/blob/master/introToPython3.md), 
 covering the answers to questions like those above. These notes will live
 in this repository.
 
