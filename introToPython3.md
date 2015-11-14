@@ -11,6 +11,13 @@ This lesson is targeted at Software Carpentry instructors looking to make the ju
  - strings v's binary data 
  - division
 
+A starting point may be to watch the overview talk by Dave Jones
+
+[![Making friends with Python 3](http://img.youtube.com/vi/r8lOHB9ma8I/0.jpg)]
+(http://www.youtube.com/watch?v=r8lOHB9ma8I "Making friends with Python 3")
+
+or the [slides](http://www.waveform.org.uk/presentations/py3friends/)
+
 ## 2. Installation
 If you don't already have python installed the instructions we provide to learners
 now gives you a version of python 3.4 via anaconda. However, it is likly that you
